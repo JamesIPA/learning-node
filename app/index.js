@@ -21,7 +21,7 @@ const r1 = readline.createInterface({
 r1.question('Please choose a maximum number to sieve to: ', (maximum) => {
     const primes = sieve.sieve(maximum);
 
-    console.log(`Primes up to: ${maximum}`)
+    console.log(`Primes up to ${maximum}:`)
     console.log(`${primes}`)
 
     r1.close
