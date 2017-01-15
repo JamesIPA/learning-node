@@ -5,4 +5,7 @@
 //require('./read-file/index')
 
 //Http request handling
-require('./http/index')
+//require('./http/index')
+
+//Express-handlebars
+require('./handlebars/index')
