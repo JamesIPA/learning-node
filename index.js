@@ -8,4 +8,7 @@
 //require('./3. http/index')
 
 //Express-handlebars
-require('./4. handlebars/index')
+//require('./4. handlebars/index')
+
+//Database with postgres
+require('./5. database/index')
