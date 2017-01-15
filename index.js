@@ -2,4 +2,7 @@
 //require('./app/index')
 
 //Async file reading
-require('./read-file/index')
+//require('./read-file/index')
+
+//Http request handling
+require('./http/index')
