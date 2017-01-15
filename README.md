@@ -4,13 +4,13 @@ If you're reading this and see anything that I could do to improve don't hesitat
 
 ##Project Contents
 Brief descriptions of the intentions of each package (are they called packages in js..?).
-###calc
+###1. calc
 The first package written that initially added up an array of numbers but now takes user input and displays all the prime numbers up to the input value with some light validation.
-###read-file
+###2. read-file
 Contains files to print this README.md file to console.out and print some information about a few of the files in the project using node's file services library.
-###http
+###3. http
 Contains files to create basic http servers and print some text to the screen.
-###handlebars
+###4. handlebars
 Simple express-handlebars project to display my name on the screen... yeah...
 
 ##Thanks

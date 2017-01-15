@@ -1,11 +1,11 @@
 // calc app
-//require('./app/index')
+//require('./1. app/index')
 
 //Async file reading
-//require('./read-file/index')
+//require('./2. read-file/index')
 
 //Http request handling
-//require('./http/index')
+//require('./3. http/index')
 
 //Express-handlebars
-require('./handlebars/index')
+require('./4. handlebars/index')
