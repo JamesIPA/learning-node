@@ -12,6 +12,8 @@ Contains files to print this README.md file to console.out and print some inform
 Contains files to create basic http servers and print some text to the screen.
 ###4. handlebars
 Simple express-handlebars project to display my name on the screen... yeah...
+###5. database
+Some basic postgres integration. hello-world works but user-query displays a "Cannot GET /" message in the browser that I don't know how to fix...
 
 ##Thanks
 -The majority of the code currently here has been learnt from the  [Node Hero series by RisingStack](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/).
